@@ -1,2 +1,2 @@
-def carrot(a,b):
+def apple(a,b):
     return a + b
