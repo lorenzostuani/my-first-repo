@@ -1,2 +1,2 @@
-def dc10(a,b):
+def mondo(a,b):
     return a + b
