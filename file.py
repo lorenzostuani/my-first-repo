@@ -1,2 +1,2 @@
-def carrot(a,b):
+def eyes(a,b):
     return a + b
