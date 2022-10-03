@@ -1,2 +1,2 @@
-def eyes(a,b):
+def dc10(a,b):
     return a + b
